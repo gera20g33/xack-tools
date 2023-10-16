@@ -1,3 +1,4 @@
+[Rimma](./image/tools.png)
 ======================================
 для TERMUX
 ======================================
@@ -5,14 +6,14 @@
 обновление пакета
 pkg установить Python
 pkg установить git
-git-клон https://github.com/gera20g33/DDos-mini.git 
+git-клон https://github.com/gera20g33/xack-tools.git
 компакт-диск DDos-мини
 запросы на установку pip
 Python DDos-mini.py
 =========================================
 ДЛЯ ОКОН
 =========================================
-git-клон https://github.com/gera20g33/DDos-mini.git
+git-клон https://github.com/gera20g33/xack-tools.git
 компакт-диск DDos-мини
 запросы на установку pip
 Python DDos-mini.py
